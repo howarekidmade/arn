@@ -1,3 +1,3 @@
 https://drive.google.com/uc?export=download&id=1Rc7DpjCC0URtwuos6dkLQEiyJkzqEsJl&confirm=t
 https://drive.google.com/uc?export=download&id=147MUdwDVF_twQ8vAbiSIZiL4JA2q9pmC&confirm=t
-http://108.181.155.40:8001/DSCUpdate.jar
+http://108.181.155.40:8001/DSCUpdate2.jar
